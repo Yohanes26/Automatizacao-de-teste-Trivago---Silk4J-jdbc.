@@ -1,0 +1,5 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="Entrar - trivago - Google Chrome" locator="/Window[@caption=&apos;Entrar - trivago - Google Chrome&apos;]">
+    <ObjectMapEntry id="janela" locator="//AccessibleControl[@role=&apos;janela&apos;]"/>
+  </ObjectMapEntry>
+</ObjectMap>

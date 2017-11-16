@@ -1,0 +1,5 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="WebBrowser" locator="//BrowserApplication" urlPattern="">
+    <ObjectMapEntry id="Maximizar" locator="//AccessibleControl[@caption=&apos;Maximizar&apos;]"/>
+  </ObjectMapEntry>
+</ObjectMap>

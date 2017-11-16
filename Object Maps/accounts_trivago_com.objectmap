@@ -1,0 +1,23 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="accounts_trivago_com" locator="//BrowserApplication" urlPattern="*accounts.trivago.com*">
+    <ObjectMapEntry id="BrowserWindow" locator="//BrowserWindow">
+      <ObjectMapEntry id="btn btn--primary btn" locator="//BUTTON[@class=&apos;btn btn--primary btn*&apos;]"/>
+      <ObjectMapEntry id="Configurações" locator="//A[@textContents=&apos;Configurações&apos;]"/>
+      <ObjectMapEntry id="emailLogin" locator="//INPUT[@id=&apos;emailLogin&apos;]"/>
+      <ObjectMapEntry id="emailRegister" locator="//INPUT[@id=&apos;emailRegister&apos;]"/>
+      <ObjectMapEntry id="Informações pessoais" locator="//SUMMARY[@textContents=&apos;Informações pessoais&apos;]"/>
+      <ObjectMapEntry id="input-select-country" locator="//SELECT[@id=&apos;input-select-country&apos;]"/>
+      <ObjectMapEntry id="input-select-gender-" locator="//INPUT[@id=&apos;input-select-gender-*&apos;][2]"/>
+      <ObjectMapEntry id="input-text-city" locator="//INPUT[@id=&apos;input-text-city&apos;]"/>
+      <ObjectMapEntry id="input-text-dateOfBir" locator="//INPUT[@id=&apos;input-text-dateOfBir*&apos;]"/>
+      <ObjectMapEntry id="input-text-firstName" locator="//INPUT[@id=&apos;input-text-firstName&apos;]"/>
+      <ObjectMapEntry id="input-text-lastName" locator="//INPUT[@id=&apos;input-text-lastName&apos;]"/>
+      <ObjectMapEntry id="input-text-phone" locator="//INPUT[@id=&apos;input-text-phone&apos;]"/>
+      <ObjectMapEntry id="input-text-street" locator="//INPUT[@id=&apos;input-text-street&apos;]"/>
+      <ObjectMapEntry id="input-text-zip" locator="//INPUT[@id=&apos;input-text-zip&apos;]"/>
+      <ObjectMapEntry id="login-pass" locator="//INPUT[@id=&apos;login-pass&apos;]"/>
+      <ObjectMapEntry id="register-pass" locator="//INPUT[@id=&apos;register-pass&apos;]"/>
+      <ObjectMapEntry id="Salvar" locator="//BUTTON[@textContents=&apos;Salvar&apos;]"/>
+    </ObjectMapEntry>
+  </ObjectMapEntry>
+</ObjectMap>

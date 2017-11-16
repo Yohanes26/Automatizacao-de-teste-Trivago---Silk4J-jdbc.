@@ -1,0 +1,12 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="trivago_com_br" locator="//BrowserApplication" urlPattern="*trivago.com.br*">
+    <ObjectMapEntry id="BrowserWindow" locator="//BrowserWindow">
+      <ObjectMapEntry id="Cadastre-se" locator="//A[@textContents=&apos;Cadastre-se&apos;]"/>
+      <ObjectMapEntry id="Efetuar Login" locator="//A[@textContents=&apos;Efetuar Login&apos;]"/>
+      <ObjectMapEntry id="Menu" locator="//SPAN[@textContents=&apos;Menu&apos;]"/>
+      <ObjectMapEntry id="Meu perfil" locator="//SPAN[@textContents=&apos;Meu perfil&apos;]"/>
+      <ObjectMapEntry id="Perfil" locator="//A[@textContents=&apos;Perfil&apos;]"/>
+      <ObjectMapEntry id="Yohanes lopes goncal" locator="//SPAN[@textContents=&apos;Yohanes lopes goncal*&apos;]"/>
+    </ObjectMapEntry>
+  </ObjectMapEntry>
+</ObjectMap>

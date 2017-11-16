@@ -1,0 +1,5 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="trivago com br - O melhor buscador" locator="/Window[@caption=&apos;trivago.com.br - O melhor buscador de preços de hotéis do mundo - Google Chrome&apos;]">
+    <ObjectMapEntry id="janela" locator="//AccessibleControl[@role=&apos;janela&apos;]"/>
+  </ObjectMapEntry>
+</ObjectMap>

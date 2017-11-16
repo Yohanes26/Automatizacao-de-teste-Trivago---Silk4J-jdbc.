@@ -1,0 +1,5 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="data , - Google Chrome" locator="/Window[@caption=&apos;data:, - Google Chrome&apos;]">
+    <ObjectMapEntry id="Barra de endereço e de pesquisa" locator="//AccessibleControl[@caption=&apos;Barra de endereço e de pesquisa&apos;]"/>
+  </ObjectMapEntry>
+</ObjectMap>

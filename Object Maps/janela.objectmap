@@ -1,0 +1,3 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="janela" locator="/Control//AccessibleControl[@role=&apos;janela&apos;]"/>
+</ObjectMap>
